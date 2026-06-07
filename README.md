@@ -2,6 +2,11 @@
 
 A Minecraft Forge mod that displays real-time lyrics and track information for the currently playing music.
 
+Backport of the official music HUD introduced in Minecraft 1.21.6, bringing the same experience to 1.20.1 with enhanced lyrics support.
+
+![Screenshot 1](screenshots/lyric_mode.png)
+![Screenshot 2](screenshots/instrumental_mode.png)
+
 ## Features
 
 - Auto-identifies music from resource packs (filename parsing / AcoustID / ACRCloud)
@@ -55,6 +60,11 @@ Built with the assistance of DeepSeek V4.
 # LyricHUD
 
 Minecraft Forge 模组，在游戏内实时显示当前播放音乐的歌词和曲目信息。
+
+Minecraft 1.21.6 官方音乐 HUD 的低版本复刻，为 1.20.1 带来同样体验并增强了歌词支持。
+
+![截图 1](screenshots/lyric_mode.png)
+![截图 2](screenshots/instrumental_mode.png)
 
 ## 功能
 
