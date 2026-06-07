@@ -1,0 +1,28 @@
+# ForgeGradle
+build/
+.gradle/
+run/
+run-data/
+logs/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.log
+*.zip
+fpcalc_out*.txt
+build_log.txt
+bl*.txt
