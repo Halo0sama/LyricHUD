@@ -48,6 +48,8 @@ Portions adapted from music-tag-web (GPL V3.0): https://github.com/xhongc/music-
 
 Audio fingerprinting via AcoustID / Chromaprint.
 
+Built with the assistance of DeepSeek V4.
+
 ---
 
 # LyricHUD
@@ -99,3 +101,5 @@ GNU General Public License v3.0
 本项目部分代码移植自 music-tag-web (GPL V3.0)：https://github.com/xhongc/music-tag-web
 
 音频指纹使用 AcoustID / Chromaprint。
+
+在 DeepSeek V4 的协助下完成开发。
