@@ -2,8 +2,10 @@
 
 A Minecraft Forge mod that displays real-time lyrics and track information for the currently playing music.
 
-![lyric mode](screenshots/lyric_mode.png)
-![instrumental mode](screenshots/instrumental_mode.png)
+<p align="center">
+  <img src="screenshots/lyric_mode.png" width="45%" />
+  <img src="screenshots/instrumental_mode.png" width="45%" />
+</p>
 
 ## Features
 
@@ -60,8 +62,10 @@ Built with the assistance of DeepSeek V4.
 
 Minecraft Forge 模组，在游戏内实时显示当前播放音乐的歌词和曲目信息。
 
-![歌词模式](screenshots/lyric_mode.png)
-![纯音乐模式](screenshots/instrumental_mode.png)
+<p align="center">
+  <img src="screenshots/lyric_mode.png" width="45%" />
+  <img src="screenshots/instrumental_mode.png" width="45%" />
+</p>
 
 ## 功能
 
