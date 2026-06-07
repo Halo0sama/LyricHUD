@@ -2,16 +2,12 @@
 
 A Minecraft Forge mod that displays real-time lyrics and track information for the currently playing music.
 
-Backport of the official music HUD introduced in Minecraft 1.21.6, bringing the same experience to 1.20.1 with enhanced lyrics support.
-
-![Screenshot 1](screenshots/lyric_mode.png)
-![Screenshot 2](screenshots/instrumental_mode.png)
-
 ## Features
 
 - Auto-identifies music from resource packs (filename parsing / AcoustID / ACRCloud)
 - Displays track name and artist for instrumental music
 - Shows bilingual LRC lyrics (original + Chinese translation) powered by NetEase
+- Backport of Minecraft 1.21.6's official music HUD for Forge 1.20.1, with enhanced lyrics support
 - Animated HUD (slide in 1s → display 5s → slide out 1s)
 - Works on main menu and in-game
 - One-click wrong lyric report, auto-skip on next play
@@ -61,16 +57,12 @@ Built with the assistance of DeepSeek V4.
 
 Minecraft Forge 模组，在游戏内实时显示当前播放音乐的歌词和曲目信息。
 
-Minecraft 1.21.6 官方音乐 HUD 的低版本复刻，为 1.20.1 带来同样体验并增强了歌词支持。
-
-![截图 1](screenshots/lyric_mode.png)
-![截图 2](screenshots/instrumental_mode.png)
-
 ## 功能
 
 - 自动识别资源包中的音乐（文件名解析 / AcoustID 音频指纹 / ACRCloud）
 - 纯音乐显示曲名和艺术家
 - 带歌词的歌显示网易云双语 LRC（原文 + 中文翻译）
+- Minecraft 1.21.6 官方音乐 HUD 的 Forge 1.20.1 复刻，增强歌词支持
 - HUD 弹入弹出动画（滑入 1s → 显示 5s → 滑出 1s）
 - 主菜单和游戏内均可使用
 - 歌词错误可一键报告，下次自动跳过错误匹配
